@@ -1,0 +1,15 @@
+C:\Users\ClassTime\source\repos\AbstractPattern\bin\Debug\net6.0\AbstractPattern.exe
+C:\Users\ClassTime\source\repos\AbstractPattern\bin\Debug\net6.0\AbstractPattern.deps.json
+C:\Users\ClassTime\source\repos\AbstractPattern\bin\Debug\net6.0\AbstractPattern.runtimeconfig.json
+C:\Users\ClassTime\source\repos\AbstractPattern\bin\Debug\net6.0\AbstractPattern.dll
+C:\Users\ClassTime\source\repos\AbstractPattern\bin\Debug\net6.0\AbstractPattern.pdb
+C:\Users\ClassTime\source\repos\AbstractPattern\obj\Debug\net6.0\AbstractPattern.csproj.AssemblyReference.cache
+C:\Users\ClassTime\source\repos\AbstractPattern\obj\Debug\net6.0\AbstractPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ClassTime\source\repos\AbstractPattern\obj\Debug\net6.0\AbstractPattern.AssemblyInfoInputs.cache
+C:\Users\ClassTime\source\repos\AbstractPattern\obj\Debug\net6.0\AbstractPattern.AssemblyInfo.cs
+C:\Users\ClassTime\source\repos\AbstractPattern\obj\Debug\net6.0\AbstractPattern.csproj.CoreCompileInputs.cache
+C:\Users\ClassTime\source\repos\AbstractPattern\obj\Debug\net6.0\AbstractPattern.dll
+C:\Users\ClassTime\source\repos\AbstractPattern\obj\Debug\net6.0\refint\AbstractPattern.dll
+C:\Users\ClassTime\source\repos\AbstractPattern\obj\Debug\net6.0\AbstractPattern.pdb
+C:\Users\ClassTime\source\repos\AbstractPattern\obj\Debug\net6.0\AbstractPattern.genruntimeconfig.cache
+C:\Users\ClassTime\source\repos\AbstractPattern\obj\Debug\net6.0\ref\AbstractPattern.dll
